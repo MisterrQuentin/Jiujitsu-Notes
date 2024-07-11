@@ -1,9 +1,32 @@
----
-tags:
-  - Videos
-  - Links
-date: 2024-03-16T11:40
----
+## Craig Jones
+#### Instructionals:
+https://bjjfanatics.com/collections/instructional-videos/fighter_craig-jones
+
+#### Free Videos:
+Free Craig Jones Technique: The Reach Around AKA Octopus Guard![](https://www.youtube.com/watch?v=PwzqqnWESxw)
+
+How To Use Wrestling to Beat Jiu-Jitsu | Craig Jones Free BJJ Fanatics Technique![](https://www.youtube.com/watch?v=pIx6-xoDifI)
+
+Every Single Bullsh*t Craig Jones Side Control Escape/Reversal
+![]()https://www.youtube.com/watch?v=K_LFvjql_tQ
+
+
+## Dean Lister
+
+#### Instructionals:
+
+#### Free Videos:
+Dean Lister's Complete 16-Part Leg Lock System (Full BJJ Instructional)![](https://www.youtube.com/watch?v=tW8IkM5iZnk)
+
+## Gordon Ryan
+
+#### Instructionals:
+
+
+#### Free Videos:
+The Best Way To Escape From The Jiu Jitsu Body Triangle by Gordon Ryan![](https://www.youtube.com/watch?v=RscLPT0F-DE)
+
+
 ## John Danaher
 
 #### Instructionals:
@@ -116,7 +139,8 @@ BJJ Techniques: Crossed Feet by John Danaher![](https://www.youtube.com/watch?v=
 
 Kimura Part III by John Danaher![](https://www.youtube.com/watch?v=39oJgyK1iz0)
 
-3 Submissions Every BJJ Black Belt Should Know by Craig Jones, Bernardo Faria & John Danaher![](https://www.youtube.com/watch?v=u9BE8kY123A)
+3 Submissions Every BJJ Black Belt Should Know by Craig Jones, Bernardo Faria & John Danaher
+![](https://www.youtube.com/watch?v=u9BE8kY123A)
 
 Transition to X Guard and Heel Hook by John Danaher![](https://www.youtube.com/watch?v=5wvpttcNdMU)
 
@@ -129,7 +153,8 @@ The Best Jiu Jitsu Submission Escapes & How To Connect Escapes To Submissions by
 
 ##### Concepts 
 
-The New Philosophy Of Jiu Jitsu Positional Escapes (The New Wave Jiu Jitsu) by John Danaher![](https://www.youtube.com/watch?v=_-V0jeNsN2c)
+The New Philosophy Of Jiu Jitsu Positional Escapes (The New Wave Jiu Jitsu) by John Danaher
+![](https://www.youtube.com/watch?v=_-V0jeNsN2c)
 
 The Importance Of BJJ Fundamentals by John Danaher![](https://www.youtube.com/watch?v=-zgwLkCoWDw)
 
@@ -139,15 +164,12 @@ BJJ Center Line Shift by John Danaher![](https://www.youtube.com/watch?v=Hxb1fgN
 
 Go Further Faster: BJJ Fundamentals (Gi) by John Danaher![](https://www.youtube.com/watch?v=jdv82OdlTO8)
 
-## Gordon Ryan
+## Lucas Lepri
 
 #### Instructionals:
 
-
 #### Free Videos:
-The Best Way To Escape From The Jiu Jitsu Body Triangle by Gordon Ryan![](https://www.youtube.com/watch?v=RscLPT0F-DE)
-
-
+Concepts About Balance & Base With The Best On It - Lucas Lepri![](https://www.youtube.com/watch?v=UkLuXpUQp38)
 
 ## Marcelo Garcia
 
@@ -167,25 +189,25 @@ Marcelo Garcia: Bow & Arrow Choke Variation![](https://www.youtube.com/watch?v=1
 
 BJJ Butterfly Guard - Most Important Principles by Marcelo Garcia![](https://www.youtube.com/watch?v=0WG1MYvgXAM)
 
-## Craig Jones
-
+## Mikey Musumeci
 #### Instructionals:
-https://bjjfanatics.com/collections/instructional-videos/fighter_craig-jones
+https://bjjfanatics.com/collections/instructional-videos/fighter_mikey-musumeci
 
 #### Free Videos:
-Free Craig Jones Technique: The Reach Around AKA Octopus Guard![](https://www.youtube.com/watch?v=PwzqqnWESxw)
-
-How To Use Wrestling to Beat Jiu-Jitsu | Craig Jones Free BJJ Fanatics Technique![](https://www.youtube.com/watch?v=pIx6-xoDifI)
-
-Every Single Bullsh*t Craig Jones Side Control Escape/Reversal
-![]()https://www.youtube.com/watch?v=K_LFvjql_tQ
+How To Do The Perfect Side Sweep From De La Riva Guard by Mikey Musumeci![](https://www.youtube.com/watch?v=Iwn_GAyWcRc)
 
 
-## :
+
+
+
+
+
+## Ryan Hall
 
 #### Instructionals:
 
-
 #### Free Videos:
+Positioning Principles That Allow You to Stay Powerful by Ryan Hall![](https://www.youtube.com/watch?v=73Rexs0ETNM)
+
 
 
