@@ -1,6 +1,6 @@
-![[Split_Sweep.gif]]
+![[Split Sweep from DLR.gif]]
 ### Description
-
+From DLR push your opponent's leg as far as you can on the inside of the knee, get on your elbow and swipe the other leg's heel with your calf. (easier on smaller opponents)
 ### Pros & Cons
 Pros
 - Example 
@@ -25,7 +25,9 @@ Sweeps:
 
 
 ### Transition to
-- Example
+- [[Half Guard Knee Shield]]
+- [[Half Guard Chest to Chest]]
+- [[Knee Cut pass]]
 - 
 
 ### Internal Links:

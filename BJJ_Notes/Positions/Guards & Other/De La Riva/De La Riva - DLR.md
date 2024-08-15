@@ -1,9 +1,13 @@
+![[DLR no grip 1.jpg]]
+![[DLR no grip 2.jpg]]
+![[DLR no grip 3.jpg]]
 ### Description
 De La Riva is a guard that's best used to control your opponent when they have a staggered stance, by using your leg to hook their leading leg and grabbing the ankle, you gain complete control over that leg, your free hand/leg can move around, giving you different attack options based on where they go, a good resting spot for your leg to manage distance is your opponent's hip.
 ###  Key Details
-- Hold the ankle where your pinky finger touches the floor, its like any other lever, the end of the lever has the most leverage.
+- Flex your DLR hook on the inside of your opponent's thigh
+- Hold the ankle where your pinky finger touches the floor, Or grab the pants
 - Align your head with your opponent's shoulder.
-- For the guard player, do not let the top player walk his foot passed your hip line.
+- Do not let the top player walk his foot passed your hip line.
 - Place your Free leg on your opponent's hip bone, this should make it more difficult to remove and it will also set up reactions from your opponent trying to remove it that your can take advantage of.
 
 ### Pros
@@ -16,7 +20,7 @@ De La Riva is a guard that's best used to control your opponent when they have a
 ### Attacks
 
 Submissions:
-- Example
+- [[Armbar from Tripod Sweep]]
 - 
 
 Sweeps:
@@ -29,7 +33,7 @@ Sweeps:
 
 
 ### Transition to
-- Example
+- [[De La Riva X]]
 - 
 
 ### Internal Links:

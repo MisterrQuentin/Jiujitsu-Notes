@@ -1,3 +1,4 @@
+![[Closed_Guard.png]]
 ### Description
 The person in the closed guard position has their legs wrapped around their opponents hips with their feet locked. If your legs are too short, or your opponent is too big and you can't lock your feet just try to pinch them with your knees
 

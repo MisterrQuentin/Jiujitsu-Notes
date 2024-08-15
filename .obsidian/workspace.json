@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md",
+                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455.5
   },
   "right": {
     "id": "37b9e80b8d49f85e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md",
+                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md",
+                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md"
+                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md"
               }
             }
           }
@@ -146,10 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c75003d76785e72",
+  "active": "6d38f667645a4ce7",
   "lastOpenFiles": [
-    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/Passing/X-Pass From Half Guard Knee Shield.md",
+    "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Tripod Sweep.md",
+    "BJJ_Notes/Positions/Guards & Other/De La Riva/De La Riva - DLR.md",
+    "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Tomahawk Sweep.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
+    "BJJ_Notes/HOME/Templates/Core  Positions Template.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Side Control.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Closed Guard.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Knee on Belly.md",
+    "BJJ_Notes/Attachments/Armbar_from_Knee_on_belly.gif",
+    "BJJ_Notes/Attachments/Armbar_from_Knee_on_belly_2.gif",
+    "BJJ_Notes/Positions/Guards & Other/Closed Guard/Sweeps/Hip Bump Sweep.md",
     "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Split Sweep.md",
+    "BJJ_Notes/Attachments/Tripod_sweep_from_DLR.gif",
+    "BJJ_Notes/Attachments/DLRX_Right_Side_Sweep.gif",
+    "BJJ_Notes/Attachments/Armbar_from_tripod_sweep.gif",
+    "BJJ_Notes/Attachments/DLR no grip 3.jpg",
+    "BJJ_Notes/Attachments/DLR no grip 2.jpg",
+    "BJJ_Notes/Attachments/DLR no grip 1.jpg",
+    "BJJ_Notes/Attachments/Closed_Guard.png",
+    "BJJ_Notes/Attachments/Carotid_artery.png",
+    "BJJ_Notes/HOME/Videos/Content By Instructor.md",
+    "BJJ_Notes/Positions/Guards & Other/Honey Hole/Honey Hole.md",
+    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/Half Guard Knee Shield.md",
+    "BJJ_Notes/Positions/Guards & Other/Closed Guard/Closed Guard.md",
+    "README.md",
+    "BJJ_Notes/Attachments/Split Sweep from DLR",
+    "BJJ_Notes/README.md.md",
+    "BJJ_Notes/Philosophy/Mindset.md",
+    "BJJ_Notes/Untitled.md",
+    "BJJ_Notes/HOME/Current Focus.md",
+    "BJJ_Notes/Positions/Guards & Other/Leg Drag/Leg Drag to Honey Hole.md",
+    "BJJ_Notes/Positions/Guards & Other/Scissor X-Guard/Scissor X-Guard.md",
+    "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md",
+    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/Passing/X-Pass From Half Guard Knee Shield.md",
     "BJJ_Notes/Positions/Guards & Other/Z Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/X Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/Worm Guard/Passing",
@@ -159,30 +191,7 @@
     "BJJ_Notes/Positions/Guards & Other/Rubber Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/Reverse X Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/Reverse Sit/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Reverse De La Riva/Passing",
     "BJJ_Notes/Positions/Guards & Other/Truck/Truck.md",
-    "BJJ_Notes/Positions/Guards & Other/Spider Guard/Spider Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Side Control/Side Control.md",
-    "BJJ_Notes/Positions/Guards & Other/Scissor X-Guard/Scissor X-Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Reverse Sit/Reverse Sit.md",
-    "BJJ_Notes/Positions/Guards & Other/Reverse X Guard/Reverse X Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Rubber Guard/Rubber Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Open Guard/Open Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Octopus Guard/Octopus Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/X Guard/X Guard.md",
-    "BJJ_Notes/Positions/Sweeps/Tripod Sweep.md",
-    "BJJ_Notes/Untitled.md",
-    "BJJ_Notes/Positions/Sweeps/Tomahawk Sweep.md",
-    "BJJ_Notes/Positions/Sweeps/Hip Bump Sweep.md",
-    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Chest to Chest/Half Guard Chest to Chest.md",
-    "BJJ_Notes/Positions/Guards & Other/Deep Half Guard/Deep Half Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/De La Riva/Split Sweep.md",
-    "BJJ_Notes/Positions/Guards & Other/S Mount/S Mount.md",
-    "BJJ_Notes/Positions/Guards & Other/Mount/Mount.md",
-    "BJJ_Notes/Positions/Guards & Other/Leg Hook Guard/Leg Hook Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Leg Drag/Leg Drag.md",
-    "BJJ_Notes/Positions/Guards & Other/Leg Drag/Leg Drag to Honey Hole.md",
-    "BJJ_Notes/HOME/Templates/Content Creators.md",
-    "BJJ_Notes/HOME/Templates/Core  Positions Template.md"
+    "BJJ_Notes/Positions/Guards & Other/Spider Guard/Spider Guard.md"
   ]
 }

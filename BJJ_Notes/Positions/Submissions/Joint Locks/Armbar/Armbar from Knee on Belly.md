@@ -1,3 +1,5 @@
+![[Armbar_from_Knee_on_belly.gif]]
+![[Armbar_from_Knee_on_belly_2.gif]]
 ### Description
 Example
 
