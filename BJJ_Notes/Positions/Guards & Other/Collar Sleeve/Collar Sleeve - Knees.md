@@ -1,5 +1,7 @@
+![[Sleeve and collar opp on knees.jpg]]
 ### Description
-Example
+Don't get caught here,
+submissions are much easier for the guard player if you're on your knees
 
 ### Pros
 - Example

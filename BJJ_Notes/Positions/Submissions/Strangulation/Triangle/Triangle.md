@@ -45,7 +45,7 @@ Sweeps:
 
 ### Internal Links:
 [[Closed Guard]]
-[[Collar Sleeve]]
+[[Collar Sleeve - Standing]]
 [[S Mount]]
 [[Mount]]
 [[Spider Guard]]

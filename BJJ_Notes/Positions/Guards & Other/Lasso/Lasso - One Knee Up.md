@@ -2,15 +2,15 @@
 ### Description
 Example
 
-### Key Details
-- 
-
 ### Top Player Moves
 
 Transition to:
 - 
 
 Submissions:
+- 
+
+Sweeps:
 - 
 
  Passing

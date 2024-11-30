@@ -1,9 +1,7 @@
-
+![[Deep lasso spider opp on knees.jpg]]
+![[Deep lasso hip sleeve opp on knees.jpg]]
 ### Description
-Example
-
-### Key Details
-- 
+Stand up right away
 
 ### Top Player Moves
 
@@ -11,6 +9,9 @@ Transition to:
 - 
 
 Submissions:
+- 
+
+Sweeps:
 - 
 
  Passing

@@ -28,7 +28,7 @@ Sweeps:
 
 ### Escapes
 - Stand with sleeve pass
-- 
+- Knee wedge
 
 
 ### Transition to

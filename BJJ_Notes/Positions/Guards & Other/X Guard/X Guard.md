@@ -1,10 +1,11 @@
+![[X Guard.jpg]]
 ### Description
 Example
 
 ### Key Details
 - With your feet, apply force in opposite directions, pinching your opponents leg. You'll be able to apply more force if you flare out your knees, if your knees are close together, it will make things much more difficult.
 - Do the same with your shoulder and your head, pinching your opponents ankle
-- Wrap your fingers around your opponent's kneecap and pull it out to the side, so its almost facing your head.
+- Wrap your fingers around your opponent's kneecap and pull it towards your head.
 - extend your legs at a 45 degree angle up and away.
 - if you followed the previous steps it should force your opponent's heel (close to your head) off the ground, making them off balanced and ready to be swept.
 

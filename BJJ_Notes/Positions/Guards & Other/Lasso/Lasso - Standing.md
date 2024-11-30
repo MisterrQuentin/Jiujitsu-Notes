@@ -1,9 +1,7 @@
-
+![[Lasso spider.jpg]]
+![[Lasso hip sleeve.jpg]]
 ### Description
 Example
-
-### Key Details
-- 
 
 ### Top Player Moves
 
@@ -11,6 +9,9 @@ Transition to:
 - 
 
 Submissions:
+- 
+
+Sweeps:
 - 
 
  Passing

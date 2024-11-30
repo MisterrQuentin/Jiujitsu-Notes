@@ -1,9 +1,7 @@
 
+![[Tripod defense.gif]]
 ### Description
 Example
-
-### Key Details
-- 
 
 ### Top Player Moves
 
@@ -13,19 +11,25 @@ Transition to:
 Submissions:
 - 
 
+Sweeps:
+- 
+
  Passing
 - 
 
 ### Bottom Player Moves
 
 Transition to:
-- 
+- [[Back Control]]
+- [[Ashi Garami - Single Leg X]]
+- [[X Guard]]
+- [[E Guard]]
 
 Submissions:
 - 
 
 Sweeps:
-- 
+- [[tripod]]
 
  Escapes
 - 

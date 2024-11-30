@@ -31,7 +31,7 @@ Sweeps:
 
 ### Internal Links:
 [[De La Riva - DLR]]
-[[Collar Sleeve]]
+[[Collar Sleeve - Standing]]
 [[Reverse De La Riva]]
 
 ### External Links:

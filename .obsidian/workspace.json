@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
+                "file": "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Sweeps/Basic Ashi Sweep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
+                "file": "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Sweeps/Basic Ashi Sweep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
+                "file": "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Sweeps/Basic Ashi Sweep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md"
+                "file": "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Sweeps/Basic Ashi Sweep.md"
               }
             }
           }
@@ -148,50 +148,51 @@
   },
   "active": "6d38f667645a4ce7",
   "lastOpenFiles": [
-    "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Tripod Sweep.md",
-    "BJJ_Notes/Positions/Guards & Other/De La Riva/De La Riva - DLR.md",
-    "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Tomahawk Sweep.md",
-    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
     "BJJ_Notes/HOME/Templates/Core  Positions Template.md",
-    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Side Control.md",
-    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Closed Guard.md",
-    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Knee on Belly.md",
-    "BJJ_Notes/Attachments/Armbar_from_Knee_on_belly.gif",
-    "BJJ_Notes/Attachments/Armbar_from_Knee_on_belly_2.gif",
-    "BJJ_Notes/Positions/Guards & Other/Closed Guard/Sweeps/Hip Bump Sweep.md",
-    "BJJ_Notes/Positions/Guards & Other/De La Riva/Sweeps/Split Sweep.md",
+    "BJJ_Notes/Positions/Guards & Other/Headquarters - HQ/Headquarters - HQ.md",
+    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/X-Pass From Half Guard Knee Shield.md",
+    "BJJ_Notes/Positions/Guards & Other/Headquarters - HQ/Sweeps",
+    "BJJ_Notes/Positions/Guards & Other/Headquarters - HQ/Submissions",
+    "BJJ_Notes/Positions/Guards & Other/Headquarters - HQ/Passing",
+    "BJJ_Notes/Positions/Guards & Other/Headquarters - HQ",
+    "BJJ_Notes/Attachments/X-Pass.gif",
+    "BJJ_Notes/Attachments/X Guard.jpg",
     "BJJ_Notes/Attachments/Tripod_sweep_from_DLR.gif",
-    "BJJ_Notes/Attachments/DLRX_Right_Side_Sweep.gif",
-    "BJJ_Notes/Attachments/Armbar_from_tripod_sweep.gif",
-    "BJJ_Notes/Attachments/DLR no grip 3.jpg",
-    "BJJ_Notes/Attachments/DLR no grip 2.jpg",
-    "BJJ_Notes/Attachments/DLR no grip 1.jpg",
-    "BJJ_Notes/Attachments/Closed_Guard.png",
+    "BJJ_Notes/Attachments/Tripod to back 2.gif",
+    "BJJ_Notes/Attachments/Tripod to back 1.gif",
+    "BJJ_Notes/Attachments/Tripod defense.gif",
+    "BJJ_Notes/Attachments/triangle_from_closed_guard.gif",
+    "BJJ_Notes/Attachments/Closed Guard postured 1.jpg",
     "BJJ_Notes/Attachments/Carotid_artery.png",
-    "BJJ_Notes/HOME/Videos/Content By Instructor.md",
-    "BJJ_Notes/Positions/Guards & Other/Honey Hole/Honey Hole.md",
-    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/Half Guard Knee Shield.md",
-    "BJJ_Notes/Positions/Guards & Other/Closed Guard/Closed Guard.md",
+    "solar.md",
+    "BJJ_Notes/Positions/Guards & Other/Knee on Belly/Knee on Belly.md",
     "README.md",
-    "BJJ_Notes/Attachments/Split Sweep from DLR",
+    "BJJ_Notes/Attachments/Solar plexus.png",
+    "Solar.md",
     "BJJ_Notes/README.md.md",
-    "BJJ_Notes/Philosophy/Mindset.md",
-    "BJJ_Notes/Untitled.md",
+    "BJJ_Notes/Positions/Guards & Other/Knee on Belly/Submissions/Armbar from KOB pushing knee.md",
+    "BJJ_Notes/Positions/Submissions/Strangulation/Triangle/Triangle.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Mikey Lock/Mikey Lock.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Tripod Sweep.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Side Control.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Mount.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Closed Guard.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Back Control.md",
+    "BJJ_Notes/Positions/Guards & Other/Closed Guard/Closed Guard.md",
+    "BJJ_Notes/Positions/Submissions/Joint Locks/Armbar/Armbar from Knee on Belly.md",
+    "BJJ_Notes/HOME/READ ME.md",
     "BJJ_Notes/HOME/Current Focus.md",
-    "BJJ_Notes/Positions/Guards & Other/Leg Drag/Leg Drag to Honey Hole.md",
-    "BJJ_Notes/Positions/Guards & Other/Scissor X-Guard/Scissor X-Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Worm Guard/Worm Guard.md",
-    "BJJ_Notes/Positions/Guards & Other/Half Guard/Half Guard Knee Shield/Passing/X-Pass From Half Guard Knee Shield.md",
+    "BJJ_Notes/HOME/Training ideas.md",
+    "BJJ_Notes/Positions/Guards & Other/Lasso/Lasso - On Both Knees.md",
+    "BJJ_Notes/Positions/Guards & Other/Lasso/Lasso - One Knee Up.md",
+    "BJJ_Notes/Positions/Guards & Other/Lasso/Lasso - Standing.md",
+    "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Sweeps/Basic Ashi Sweep.md",
+    "BJJ_Notes/Positions/Guards & Other/Ashi Garami - Single Leg X/Ashi Garami - Single Leg X.md",
+    "BJJ_Notes/Attachments/Split Sweep from DLR",
     "BJJ_Notes/Positions/Guards & Other/Z Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/X Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/Worm Guard/Passing",
     "BJJ_Notes/Positions/Guards & Other/Truck/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Spider Guard/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Scissor X-Guard/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Rubber Guard/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Reverse X Guard/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Reverse Sit/Passing",
-    "BJJ_Notes/Positions/Guards & Other/Truck/Truck.md",
-    "BJJ_Notes/Positions/Guards & Other/Spider Guard/Spider Guard.md"
+    "BJJ_Notes/Positions/Guards & Other/Spider Guard/Passing"
   ]
 }

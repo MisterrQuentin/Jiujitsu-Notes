@@ -2,36 +2,35 @@
 ### Description
 Grab same side lapel with one hand and the outside of your opponents knee with your other hand, center them up by getting their back flat on the mat, then kick your leg back and punch your opponents leg out of the way with the knee grip and secure knee on belly
 
-### Pros & Cons
-Pros
-- Very fast and simple 
+### Key Details
+- The hand on
+### Top Player Moves
 
-Cons
-- Can be difficult if they have a strong grip on your ankle 
+Transition to:
 - 
 
-### Attacks
-
 Submissions:
-- Example
 - 
 
 Sweeps:
-- Example
 - 
 
-### Escapes
-- Example
+ Passing
 - 
 
+### Bottom Player Moves
 
-### Transition to
-- [Knee On Belly]
+Transition to:
 - 
 
-### Internal Links:
-[[]]
+Submissions:
+- 
 
+Sweeps:
+- 
+
+ Escapes
+- 
 
 ### External Links:
 **Aaron Benzrihem bjj**[](https://www.youtube.com/channel/UC_meefts7e-8bSCvfB0vXnQ)

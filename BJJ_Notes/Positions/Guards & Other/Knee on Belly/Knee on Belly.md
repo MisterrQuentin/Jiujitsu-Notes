@@ -1,53 +1,38 @@
+
 ### Description
-Example
+There are a few different ways you can control your opponent with grips and knee placement
+**Knee Placement**
+the two main ones I'm aware of are
+- Knee across hips
+- Knee on[solar plexus](solar plexus.png) 
 
-### Pros
-- Example
-- 
-### Cons
-- Example
-- 
+### Top Player Moves
 
-### Attacks
+Transition to:
+- [[Mount]]
+- [[Side Control]]
+- [[North South]]
+- [[Half Guard Knee Shield]]
+- [[Half Guard Chest to Chest]]
 
 Submissions:
-- Example
+- [[Armbar from KOB pushing knee]]
+
+ Passing
+- 
+
+### Bottom Player Moves
+
+Transition to:
+- 
+
+Submissions:
 - 
 
 Sweeps:
-- Example
 - 
 
-### Escapes
-- Example
+ Escapes
 - 
-
-
-### Transition to
-- Example
-- 
-
-### Internal Links:
-[[Mount]]
-[[Side Control]]
-
 
 ### External Links:
-**Bernardo Faria BJJ Fanatics[](https://www.youtube.com/channel/UCtXtqlLdZYZm3060qVExXkA)
-- 
-
-**Jon Thomas BJJ [](https://www.youtube.com/channel/UCBNsOFfO-TZDIpygfz5paaQ)
-Jon Thomas BJJ Clips [](https://www.youtube.com/channel/UCG4TX-FaQdT7Z-e3NWx8Wyw)
-- 
-
-**Marcos Tinoco BIG OSS[](https://www.youtube.com/channel/UCilIX_yDgcTP3j7zMjJTIvg)
-- 
-
-**Knight Jiu-Jitsu[](https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw)
-- 
-
-**Jordan Teaches Jiujitsu [](https://www.youtube.com/channel/UCexKjyhZ5EvBTWyg6U6e5Og)- 
-
-
-**Chewjitsu[](https://www.youtube.com/channel/UCGCZBBvu7ZnqHYHuScODbAQ)
-- 
